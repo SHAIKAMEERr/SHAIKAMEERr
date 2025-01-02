@@ -8,7 +8,7 @@ With a strong foundation in **Java**, I love solving complex problems and delive
 ### 🛠️ Skills & Technologies
 - **Programming Languages**: Java
 - **Backend Frameworks**: Spring Boot, RESTful APIs
-- **Database Management**: MySQL, PostgreSQL
+- **Database Management**: MySQL, MongoDB
 - **Authentication & Authorization**: OAuth 2.0, HMAC SHA-256, RBAC
 - **Tools & Platforms**: AWS EC2, RDS, Secret Manager
 - **Other Skills**: ModelMapper, Lombok, NamedParameterJdbcTemplate, Redis
