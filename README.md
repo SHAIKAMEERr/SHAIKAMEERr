@@ -10,7 +10,7 @@ With a strong foundation in **Java**, I love solving complex problems and delive
 - **Backend Frameworks**: Spring Boot, RESTful APIs
 - **Database Management**: MySQL, MongoDB
 - **Authentication & Authorization**: OAuth 2.0, HMAC SHA-256, RBAC
-- **Tools & Platforms**: AWS EC2, RDS, Secret Manager, IAM
+- **Tools & Platforms**: Kafka, AWS EC2, RDS, Secret Manager, IAM
 - **Other Skills**: ModelMapper, Lombok, NamedParameterJdbcTemplate, Redis
 - **Version Control**: Git, Bitbucket
 
