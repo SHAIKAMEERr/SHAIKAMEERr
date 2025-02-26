@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shaik Ameerjan! 
+# 👋 Hi, I'm SHAIK AMEER! 
 
 ### 🚀 About Me
 I'm a passionate **Java Developer** with experience in building robust backend systems using **Spring Boot**, **REST APIs**, and **Microservices**. I am particularly skilled in developing secure and scalable applications with an emphasis on **authentication**, **authorization**, and **role-based access control (RBAC)** mechanisms. 
