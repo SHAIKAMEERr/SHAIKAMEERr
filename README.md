@@ -27,6 +27,8 @@ With a strong foundation in **Java**, I love solving complex problems and delive
 ### 📫 Let's Connect!
 - **LinkedIn**: ([Shaik-Ameer](https://www.linkedin.com/in/ameer-shaikk/))  
 - **Email**: [shaikameerjann@gmail.com](mailto:shaikameerjann@gmail.com)
+- **LeetCode**: [Shaik-Ameer](https://leetcode.com/u/SHAIK_AMEER_/)
+
 
 ### 💡 Fun Fact
 When I'm not coding, I enjoy exploring innovative business ideas and learning about global trends in **mental health solutions** and **lifestyle benefits**.
