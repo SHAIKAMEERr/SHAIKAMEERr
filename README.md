@@ -6,7 +6,7 @@ I'm a passionate **Java Developer** with experience in building robust backend s
 With a strong foundation in **Java**, I love solving complex problems and delivering quality software solutions. My expertise includes **payment integration systems**, **AWS cloud deployment**, and implementing efficient **database designs**.
 
 ### 🛠️ Skills & Technologies
-- **Programming Languages**: Java
+- **Programming Languages**: Java, Python
 - **Backend Frameworks**: Spring Boot, RESTful APIs
 - **Database Management**: MySQL, MongoDB
 - **Authentication & Authorization**: OAuth 2.0, HMAC SHA-256, RBAC
