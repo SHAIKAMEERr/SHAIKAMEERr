@@ -1,4 +1,4 @@
-# 👋 Hi, I'm SHAIK AMEER!
+# 👋 Hi, I'm AMEER SHAIK !
 
 ## 🚀 About Me
 I'm a dedicated **Java Developer** with experience in designing and developing scalable, secure, and high-performance backend systems. I specialize in **Spring Boot, REST APIs, and Microservices** and have a strong foundation in **authentication, authorization, and role-based access control (RBAC).**
@@ -9,7 +9,7 @@ With expertise in **cloud deployment, payment integrations, and distributed syst
 
 ## 🛠️ Skills & Technologies
 - **Programming Languages:** Java, Python  
-- **Backend Frameworks:** Spring Boot, RESTful APIs, Microservices  
+- **Backend Frameworks:** Spring, Spring Boot, RESTful APIs, Microservices  
 - **Database Management:** MySQL, MongoDB  
 - **Authentication & Authorization:** OAuth 2.0, HMAC SHA-256, RBAC  
 - **Cloud & DevOps:** AWS (EC2, RDS, Secret Manager, IAM), Redis, Kafka, Docker, Kubernetes  
