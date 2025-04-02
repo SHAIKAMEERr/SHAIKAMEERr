@@ -68,7 +68,6 @@ With expertise in **cloud deployment, payment integrations, and distributed syst
 - **LinkedIn:** [Shaik-Ameer](https://www.linkedin.com/in/ameer-shaikk/)  
 - **Email:** shaikameerjann@gmail.com  
 - **LeetCode:** [Shaik-Ameer](https://leetcode.com/u/SHAIK_AMEER_/)  
-- **GitHub:** [GitHub Profile](https://github.com/SHAIKAMEERr)  
 
 💡 **Fun Fact**
 Beyond coding, I enjoy **exploring innovative business ideas, understanding global mental health solutions, and staying updated on lifestyle trends.**
