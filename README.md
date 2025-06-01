@@ -95,5 +95,6 @@ A personal site showcasing my career, projects, and contact.
 
 ---
 
-> 💬 “Building secure, scalable, and maintainable backend solutions that matter.”
+> ✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
+>  _Shaik Ameer_
 
