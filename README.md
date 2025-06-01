@@ -8,11 +8,11 @@ With expertise in **cloud deployment, payment integrations, and distributed syst
 ---
 
 ## 🛠️ Skills & Technologies
-- **Programming Languages:** Java, Python  
+- **Programming Languages:** Java, Python,   
 - **Backend Frameworks:** Spring, Spring Boot, RESTful APIs, Microservices  
 - **Database Management:** MySQL, MongoDB  
 - **Authentication & Authorization:** OAuth 2.0, HMAC SHA-256, RBAC  
-- **Cloud & DevOps:** AWS (EC2, RDS, Secret Manager, IAM), Redis, Kafka, Docker, Kubernetes  
+- **Cloud & DevOps:** AWS (EC2, RDS, Secret Manager, IAM, S3), Redis, Kafka, Docker, Kubernetes  
 - **Other Tools & Libraries:** ModelMapper, Lombok, NamedParameterJdbcTemplate, Gson  
 - **Version Control:** Git, Bitbucket  
 - **Data Structures & Algorithms:** LeetCode practice, problem-solving in Java  
