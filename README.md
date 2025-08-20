@@ -79,13 +79,13 @@ A personal site showcasing my career, projects, and contact.
 ## 📬 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/shaikameer/" target="_blank">
+  <a href="https://www.linkedin.com/in/ameer-shaikk/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:shaikameer.dev@gmail.com">
+  <a href="mailto:shaikameerjann@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://shaikameerportfolio.netlify.app" target="_blank">
+  <a href="https://shaikameer.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/SHAIK_AMEER_/" target="_blank">
