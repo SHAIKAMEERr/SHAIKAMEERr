@@ -7,7 +7,7 @@ I have hands-on experience with **Java, Spring Boot, Microservices, and REST API
 
 ## 👨‍💻 About Me
 
-- 💼 Java Backend Developer (Fresher / Junior)
+- 💼 Java Backend Developer 
 - 🔧 Strong in **Core Java, Spring Boot, REST APIs**
 - 🧩 Experience with **Microservices & Service Discovery (Eureka)**
 - ☁️ Hands-on with **AWS (EC2, RDS, S3, Secrets Manager)**
@@ -44,11 +44,11 @@ I have hands-on experience with **Java, Spring Boot, Microservices, and REST API
 - MySQL  
 
 ### **Cloud & DevOps**
-- AWS (EC2, RDS, S3, Secrets Manager)  
-- Docker (Basics)
+- AWS (EC2, RDS, S3, Secrets Manager, IAM)  
+- Docker, Maven, Git 
 
 ### **Tools & Platforms**
-- Git & GitHub  
+- GitHub  
 - Bitbucket  
 - Postman  
 - IntelliJ IDEA / Eclipse  
