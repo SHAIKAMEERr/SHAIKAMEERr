@@ -1,802 +1,314 @@
 <div align="center">
 
-# Shaik Ameer
+# A M E E R
 
-### Software Development Engineer (SDE) | Java Backend Developer | Spring Boot | SaaS | Distributed Systems
+### Software Development Engineer · Java Backend Engineer
 
-**Building secure, scalable, maintainable and production-ready backend systems.**
+**Building secure backend services, deploying applications, and engineering reliable APIs.**
 
-<br/>
-
-<a href="https://www.linkedin.com/in/ameer-shaikk/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/SHAIKAMEERr">
-  <img src="https://img.shields.io/badge/GitHub-SHAIKAMEERr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="mailto:shaikameerjann@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://leetcode.com/SHAIKAMEER">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/ameer-shaikk/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/SHAIKAMEERr"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:shaikameerjann@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://leetcode.com/SHAIKAMEER"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## Profile
 
-I'm a **Software Development Engineer (SDE)** and **Java Backend Developer** focused on building secure, scalable and production-ready backend systems.
+I'm a **Java Backend Engineer** focused on building secure REST APIs, maintainable backend services, and reliable application workflows. My work includes Spring-based development, relational data access, authentication and authorization, audit logging, microservice communication, automated testing, and application deployment.
 
-My primary engineering focus is the **Java and Spring ecosystem**, with hands-on experience across:
+My core stack includes **Java 17, Spring Boot, Spring Security, Spring Data JPA/Hibernate, MySQL, Maven, and REST APIs**. I also work with Docker, AWS, CI/CD workflows, messaging systems, and **Spring AI**.
 
-- Java 21
-- Spring Boot 4.x
-- Spring Data JPA / Hibernate
-- REST API development
-- Microservices
-- MySQL and database engineering
-- Multi-tenant SaaS architectures
-- JWT / RBAC / OAuth 2.0
-- Kafka / RabbitMQ / Redis
-- AWS
-- CI/CD and automated testing
-- Enterprise integrations and data migration
-- Analytics and reporting
-- AI-enabled backend services
+I value clear API contracts, data integrity, backend-enforced authorization, repeatable deployments, and systems that are diagnosable when something goes wrong.
 
-I enjoy taking a business requirement, understanding the domain and constraints, designing the backend architecture, implementing reliable APIs and business rules, and taking the system toward production.
+## Core Technologies
 
-> **Build the right system. Keep it simple. Make it secure. Make it scalable.**
+<p>
+  <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 17"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security"/>
+  <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring AI"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD"/>
+</p>
 
----
-
-# 🧠 Engineering Focus
-
-```text
-                         SOFTWARE ENGINEERING
-                                  │
-          ┌───────────────────────┼────────────────────────┐
-          │                       │                        │
-          ▼                       ▼                        ▼
-       BACKEND                 SECURITY                   DATA
-          │                       │                        │
-   Java / Spring            JWT / RBAC              MySQL / JPA
-   REST APIs                OAuth 2.0               Hibernate
-   Microservices            Multi-Tenancy           Query Optimization
-   Business Logic           Authorization           Database Design
-          │                       │                        │
-          └───────────────────────┼────────────────────────┘
-                                  │
-                                  ▼
-                      DISTRIBUTED SYSTEMS
-                                  │
-                       Kafka / RabbitMQ / Redis
-                                  │
-                                  ▼
-                             CLOUD & DEVOPS
-                                  │
-                    AWS / Docker / CI/CD / Linux
-                                  │
-                                  ▼
-                         PRODUCTION SYSTEMS
-```
-
----
-
-# 🛠️ Technology Stack
-
-## ☕ Programming
-
-- **Java 21**
-- SQL
-- Python
-- JSON
-
-## 🌱 Java & Spring
-
-- Spring Boot 4.x
-- Spring Framework
-- Spring MVC
-- Spring Security
-- Spring Data JPA
-- Hibernate
-- Spring Validation
-- Spring AOP
-- Spring AI
-- Maven
-- REST API development
-- Dependency Injection
-- Transaction Management
-
-## 🌐 Backend Engineering
-
-- RESTful API design
-- Microservices
-- DTO-based API boundaries
-- Request / response validation
-- Pagination
-- Filtering
-- Sorting
-- Search
-- Bulk operations
-- Multipart APIs
-- File processing
-- Global exception handling
-- Error response standardization
-- API versioning
-- Idempotency
-- Audit logging
-
-## 🗄️ Databases
-
-- MySQL
-- JDBC
-- JPA / Hibernate
-- Database design
-- Data modeling
-- Normalization
-- Indexing
-- Composite indexes
-- Query optimization
-- JPQL
-- Native SQL
-- DTO projections
-- Aggregation queries
-- Pagination
-- Transaction management
-- Batch processing
-- JSON data handling
-
-## 🔐 Security
-
-- Spring Security
-- JWT
-- OAuth 2.0
-- RBAC
-- Permission-based authorization
-- Method-level authorization
-- Endpoint-level authorization
-- Resource ownership validation
-- Organization-level authorization
-- Plant-level authorization
-- Multi-tenant data isolation
-- Input validation
-- OWASP Top 10 awareness
-- IAM
-- SSL/TLS
-- Audit trails
-- Activity logging
-
-## 📨 Messaging & Caching
-
-- Apache Kafka
-- RabbitMQ
-- Redis
-- Event-driven architecture
-- Asynchronous processing
-- Producers and consumers
-- Event contracts
-- Retry strategies
-- Dead-letter queues
-- Idempotent consumers
-- Failure handling
-- Eventual consistency
-
-## ☁️ Cloud & DevOps
-
-- AWS EC2
-- AWS RDS
-- AWS S3
-- Docker
-- Docker Compose
-- Linux
-- Nginx
-- Git
-- GitHub
-- GitLab
-- Bitbucket
-- CI/CD
-- Maven pipelines
-- Static analysis
-- Checkstyle
-- Automated builds
-- Automated testing
-- Deployment automation
-
-## 🧪 Testing & Engineering Tools
-
-- JUnit
-- Postman
-- IntelliJ IDEA
-- Eclipse
-- MySQL Workbench
-- Jira
-
----
-
-# 🏗️ Software Architecture
-
-I focus on architectures with clear responsibilities, low coupling, strong security boundaries and long-term maintainability.
-
-### Architecture Concepts
-
-- Layered Architecture
-- Clean Architecture concepts
-- SOLID Principles
-- Domain-Driven Design concepts
-- Separation of Concerns
-- Dependency Injection
-- Dependency Inversion
-- Design Patterns
-- Service boundaries
-- Modular application design
-- Transaction boundaries
-- Repository abstraction
-- API abstraction
-- Testability
-- Maintainability
-
-### Typical Backend Structure
-
-```text
-┌──────────────────────────────────────────┐
-│              API Layer                   │
-│     Controllers / Request DTOs           │
-└──────────────────┬───────────────────────┘
-                   │
-                   ▼
-┌──────────────────────────────────────────┐
-│          Application Layer               │
-│          Services / Use Cases             │
-└──────────────────┬───────────────────────┘
-                   │
-                   ▼
-┌──────────────────────────────────────────┐
-│             Domain Layer                 │
-│       Business Rules / Models             │
-└──────────────────┬───────────────────────┘
-                   │
-                   ▼
-┌──────────────────────────────────────────┐
-│          Infrastructure Layer             │
-│ Database / Messaging / External APIs     │
-└──────────────────────────────────────────┘
-```
-
----
-
-# 🏢 SaaS & Multi-Tenant Systems
-
-I have hands-on experience working with **multi-tenant SaaS applications**, including tenant-aware security, organization and plant ownership validation, secure APIs and tenant-scoped analytics.
-
-```text
-                       SaaS Platform
-                            │
-             ┌──────────────┴──────────────┐
-             │                             │
-       Organization A               Organization B
-             │                             │
-        ┌────┴────┐                   ┌────┴────┐
-        │         │                   │         │
-      Plant A   Plant B             Plant A   Plant B
-        │         │                   │         │
-      Users     Data                Users     Data
-```
-
-### Multi-Tenancy Priorities
-
-- Tenant isolation
-- Organization-scoped data
-- Plant-level access
-- Role-based access
-- Resource ownership
-- Tenant-aware queries
-- Cross-tenant access prevention
-- Tenant-scoped analytics
-- Auditable operations
-- Configurable business rules
-
-> **A tenant identifier alone should never be sufficient to access another tenant's resources.**
-
----
-
-# 🔐 Security Engineering
-
-Security is treated as an architectural concern rather than an afterthought.
-
-### Authentication
-
-- JWT authentication
-- Spring Security
-- OAuth 2.0 concepts
-- Secure authentication flows
-
-### Authorization
-
-- RBAC
-- Permission-based authorization
-- Method-level security
-- Endpoint-level authorization
-- Organization ownership validation
-- Plant ownership validation
-- Resource ownership validation
-
-### Application Security
-
-- Input validation
-- Secure API design
-- Centralized exception handling
-- Secure configuration
-- OWASP Top 10 awareness
-- IAM
-- SSL/TLS
-- Audit trails
-- Activity logging
-
-During backend development at TraceCircle, security and authorization improvements contributed to a reported **40% reduction in security vulnerabilities during internal audits**.
-
----
-
-# 🔄 Enterprise Integrations & Data Migration
-
-I am interested in building integration platforms that move data reliably between external systems and SaaS platforms.
-
-### Integration Areas
-
-- REST API integrations
-- External system synchronization
-- Data migration
-- Data import / export
-- Field mapping
-- Data transformation
-- Validation
-- Retry mechanisms
-- Failure handling
-- Idempotency
-- Integration status tracking
-- Audit trails
-- Asynchronous integrations
-- Event-driven integrations
-
-### Production Integration Mindset
-
-```text
-Reliable
-   +
-Retryable
-   +
-Idempotent
-   +
-Observable
-   +
-Auditable
-   +
-Scalable
-```
-
----
-
-# 📨 Distributed & Event-Driven Systems
-
-### Concepts
-
-- Event-driven architecture
-- Asynchronous processing
-- Kafka producers and consumers
-- RabbitMQ messaging
-- Event contracts
-- Retry strategies
-- Dead-letter queues
-- Idempotent consumers
-- Failure handling
-- Eventual consistency
-- Distributed workflows
-
-### Example
-
-```text
-                 Application
-                      │
-                      ▼
-                Business Service
-                      │
-             ┌────────┴────────┐
-             │                 │
-             ▼                 ▼
-         Database            Event
-                               │
-                               ▼
-                       Kafka / RabbitMQ
-                               │
-                 ┌─────────────┼─────────────┐
-                 ▼             ▼             ▼
-             Analytics       Audit      Notifications
-```
-
----
-
-# 🤖 AI-Enabled Backend Engineering
-
-I approach AI primarily from a **backend architecture and integration perspective**.
-
-### Areas
-
-- Spring AI
-- LLM integrations
-- Prompt-driven services
-- AI recommendation systems
-- Context-aware recommendations
-- Rule + AI hybrid systems
-- AI service abstraction
-- Recommendation APIs
-- Business-context enrichment
-- AI response validation
-
-### Architecture Approach
-
-```text
-Business Data
-      │
-      ▼
-Context Builder
-      │
-      ▼
-Business Rules
-      │
-      ▼
-AI Service
-      │
-      ▼
-Recommendation / Insight
-      │
-      ▼
-Validation
-      │
-      ▼
-API Response
-```
-
-> **AI should enhance software systems while keeping critical business rules deterministic and testable.**
-
----
-
-# 📊 Analytics & Reporting
-
-I build backend services that transform operational data into reliable analytics and reporting APIs.
-
-### Areas
-
-- KPI aggregation
-- Trend calculations
-- Growth calculations
-- Compliance metrics
-- Data completeness
-- Resource utilization
-- Carbon metrics
-- Recovery metrics
-- Date-range analytics
-- Organization-scoped analytics
-- Plant-scoped analytics
-- Dashboard APIs
-- Executive reporting
-
-At TraceCircle, backend analytics services covered product creation, DPP/EOL coverage, resource utilization, compliance metrics, date-range trends and resource/CO2e calculations.
-
----
-
-# 📡 Observability & Auditing
-
-Production systems should be able to answer:
-
-> **What happened? When did it happen? Who triggered it? What changed?**
-
-### Areas
-
-- SLF4J
-- Structured logging
-- Activity logging
-- Audit trails
-- AOP-based activity tracking
-- Centralized exception handling
-- Error diagnostics
-- Monitoring readiness
-- Distributed tracing concepts
-
----
-
-# 🚀 DevOps & Production Engineering
-
-### AWS
-
-- EC2
-- RDS
-- S3
-
-### CI/CD
-
-- GitHub Actions / CI/CD concepts
-- Maven pipelines
-- Automated builds
-- Automated tests
-- Static analysis
-- Checkstyle
-- Quality gates
-- Deployment automation
-
-### Typical Pipeline
-
-```text
-Git Push
-   │
-   ▼
-Build
-   │
-   ▼
-Test
-   │
-   ▼
-Static Analysis
-   │
-   ▼
-Package
-   │
-   ▼
-Containerize
-   │
-   ▼
-Deploy
-   │
-   ▼
-Monitor
-```
-
-At TraceCircle, automated testing and delivery contributed to reported outcomes of **95% test coverage, 99.5% uptime and 30% faster deployments**.
-
----
-
-# 🧪 Code Quality & Engineering Practices
-
-I aim to build codebases that remain clean, understandable and maintainable as they grow.
-
-- SOLID principles
-- Clean Code
-- DRY
-- Separation of Concerns
-- Single Responsibility
-- Meaningful naming
-- DTO-based API boundaries
-- Repository abstraction
-- Validation
-- Global exception handling
-- Unit testing
-- Integration testing
-- API testing
-- Code reviews
-- Refactoring
-- Checkstyle
-- CI/CD quality gates
-- Structured logging
-- Auditability
-
----
-
-# 💼 Professional Experience
-
-## Backend Developer — Future Transformation / TraceCircle Product
-
-**Apr 2026 – Present | Bangalore, India**
-
-- Engineered GTIN, Product and Batch lifecycle workflows using Java, Spring Boot, JPA/Hibernate and MySQL.
-- Implemented GTIN-to-product mapping, batch creation, validation rules and identifier generation.
-- Worked on backend services supporting **150+ suppliers and manufacturers**.
-- Architected battery-management services covering master data, raw materials, manufacturing batches, BPAN generation, product and batch identifiers and business-rule validation.
-- Secured multi-tenant REST APIs using JWT, RBAC, authorization, organization and plant ownership validation, exception handling and audit tracking.
-- Built analytics and reporting services covering product creation, DPP/EOL coverage, resource utilization, compliance metrics and date-range trends.
-- Implemented resource usage and CO2e calculations for water, electricity, waste and emissions data.
-- Worked with JUnit, Postman, Maven CI/CD and AWS EC2/RDS/S3.
-- Collaborated with frontend, QA and product teams on API integration, backend validation, defect troubleshooting and CI/CD releases.
-
-## Backend Developer Intern — Future Transformation / TraceCircle Product
-
-**Sep 2025 – Mar 2026 | Bangalore, India**
-
-- Created REST APIs and service-layer workflows for product lifecycle and supply-chain modules.
-- Worked with Java, Spring Boot, JPA/Hibernate and MySQL.
-- Implemented DTO mapping, validation, repository operations and exception handling.
-- Strengthened backend reliability through business rules, security validations and database constraints.
-- Worked within a layered microservice architecture and supported consistent data processing across application workflows.
-
-## Java Developer Intern — HulkHire Tech / PayPal Payment Integration
-
-**Sep 2024 – Nov 2024 | Hyderabad, India**
-
-- Delivered Java and Spring Boot microservices for PayPal payment processing.
-- Worked on systems supporting **5,000+ transactions per minute**.
-- Improved reported throughput by **50%** through scalable service and event-driven design.
-- Integrated event-driven payment workflows with AWS EC2 and RDS.
-- Worked on asynchronous processing and service communication for scalable and fault-tolerant payment operations.
-
----
-
-# 🚀 Selected Project
-
-## Food Delivery Application
-
-**Jul 2024 – Aug 2024**
-
-**Java · Spring Boot · MySQL · JDBC · REST APIs**
-
-- Designed REST APIs for restaurant, order and rating workflows.
-- Built the application to support **500+ restaurants and 1,200+ daily orders**.
-- Optimized MySQL/JDBC data-access handling and reduced reported latency by **45%**.
-- Achieved **98% automated test coverage** using JUnit and Postman.
-
----
-
-# 🎯 Areas of Engineering
-
-- Backend Engineering
-- Java Development
-- Spring Boot Development
-- REST API Development
-- Microservices
-- Enterprise SaaS Applications
-- Multi-Tenant Systems
-- Distributed Systems
-- Event-Driven Architecture
-- Database Engineering
-- Performance Optimization
-- Application Security
-- Enterprise Integrations
-- Data Migration
-- AI-Enabled Backend Services
-- Analytics & Reporting
-- DevOps & CI/CD
-- AWS
-- Manufacturing Technology
-- Traceability Systems
-- Digital Product Passport Platforms
-- Sustainability Technology
-
----
-
-# 🧩 Engineering Principles
-
-| Principle | Approach |
+| Area | Technologies and skills |
 |---|---|
-| **Understand First** | Understand the problem and domain before implementation |
-| **Design Deliberately** | Choose architecture based on requirements, not trends |
-| **Security by Design** | Build authentication, authorization and isolation early |
-| **Data First** | Model data carefully and optimize queries |
-| **Design for Failure** | Consider retries, transactions and recovery |
-| **Keep Boundaries Clear** | Separate API, business, data and infrastructure concerns |
-| **Automate** | Reduce manual work through CI/CD and tooling |
-| **Observe** | Use logs, audit trails, metrics and tracing |
-| **Refactor** | Continuously improve code and architecture |
-| **Keep It Simple** | Avoid complexity that does not solve a real problem |
+| **Language** | Java 17, SQL, Python fundamentals, JSON |
+| **Java / Spring** | Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate, Bean Validation, Spring AOP concepts, Spring AI, Maven, Maven Wrapper, Lombok, DTO mapping |
+| **API engineering** | REST APIs, request/response DTOs, validation, pagination, filtering, sorting, search, multipart APIs, bulk operations, global exception handling, API versioning concepts |
+| **Data and persistence** | MySQL, JDBC, relational modeling, entity relationships, constraints, indexes, JPQL, native SQL, DTO projections, aggregation, transactions, query optimization, batch processing, Flyway |
+| **Application security** | Spring Security, OAuth 2.0, JWT, access and refresh tokens, BCrypt password hashing, RBAC, method/endpoint authorization, resource ownership, tenant-aware access, OWASP Top 10 awareness, IAM, TLS concepts |
+| **Messaging / distributed systems** | Microservices, Eureka service discovery, REST-based service communication, RabbitMQ, Apache Kafka, Redis, event-driven concepts, asynchronous processing, retries, idempotency, dead-letter queue concepts |
+| **Cloud / deployment** | AWS EC2, RDS, S3, IAM, Docker, Docker Compose, Linux, Nginx, application configuration, environment variables, CI/CD pipelines, deployment troubleshooting |
+| **Build / quality** | Maven, automated builds and tests, JUnit, Postman, Checkstyle, static analysis, Git, GitHub, GitLab, Bitbucket |
+| **Tools / collaboration** | IntelliJ IDEA, Eclipse, MySQL Workbench, Jira, React, JSX, Vite, Tailwind CSS, Recharts, Figma, frontend/backend API integration |
 
 ---
 
-# 💡 How I Approach Software Development
+## Application Security
+
+I treat security as a set of concrete implementation practices across authentication, authorization, data protection, and auditability.
+
+### Authentication and identity
+
+- **Spring Security** for securing application endpoints and configuring request access.
+- **JWT** for token-based authentication.
+- **Access-token and refresh-token flows** for session/token lifecycle management.
+- **BCrypt** for hashing passwords before storage.
+- **OAuth 2.0** concepts and authorization flows.
+- Public authentication routes with protected application routes.
+- Authentication context handling through Spring Security.
+
+### Authorization and access control
+
+- Role-Based Access Control (RBAC).
+- Endpoint-level and method-level authorization.
+- Resource ownership checks.
+- Organization- and plant-scoped authorization.
+- Multi-tenant data isolation and backend-side access validation.
+- Least-privilege access principles.
+
+### Secure engineering practices
+
+- **OWASP Top 10 awareness** applied during API design and review.
+- Input validation and controlled error responses.
+- Duplicate-account and request validation checks.
+- Secure configuration and keeping secrets out of source control.
+- Avoiding sensitive information in logs and API errors.
+- Audit/activity logging for important operations.
+- Testing permitted and forbidden access paths.
+
+Security implementation should be verified through tests and configuration review; a technology or checklist alone does not guarantee an application is secure.
+
+---
+
+## Backend Engineering Techniques
+
+### API design and validation
+
+- Design REST endpoints around clear resources and API contracts.
+- Separate controllers, request/response DTOs, services, persistence, and business rules.
+- Validate incoming data at API boundaries.
+- Centralize exception handling and standardize error responses.
+- Implement pagination, filtering, sorting, and search.
+- Handle file uploads and bulk requests safely.
+- Consider idempotency and duplicate requests for operations that may be retried.
+
+### Database design and performance
+
+- Model entities, relationships, constraints, and lifecycle rules.
+- Use primary keys, foreign keys, unique constraints, and indexes to protect integrity.
+- Choose indexes based on query patterns.
+- Use DTO projections and aggregation queries for reporting.
+- Keep transaction boundaries explicit.
+- Investigate inefficient joins, N+1 access patterns, and unbounded result sets.
+- Manage schema evolution and data migration deliberately.
+
+### Microservices and messaging
+
+- Define service responsibilities and stable communication contracts.
+- Use service discovery with Eureka where appropriate.
+- Choose synchronous REST or asynchronous messaging based on consistency, latency, and failure requirements.
+- Work with RabbitMQ and Kafka messaging patterns.
+- Consider retries, duplicate delivery, idempotent processing, and dead-letter handling.
+- Account for timeouts, partial failure, and eventual consistency.
+- Keep distributed workflows understandable and observable.
+
+### Testing and code quality
+
+- JUnit for automated Java tests.
+- Postman for API verification.
+- Test success cases, validation failures, edge cases, and authorization failures.
+- Keep business logic testable.
+- Apply SOLID principles and separation of concerns.
+- Use meaningful naming and focused methods.
+- Apply Checkstyle and static analysis in build workflows.
+- Treat automated testing as part of delivery rather than a final manual step.
+
+---
+
+## Deployment, DevOps, and CI/CD
+
+I work across application development and delivery, including containerized services, AWS infrastructure, build automation, and deployment troubleshooting.
+
+### Deployment and infrastructure skills
+
+- **Docker:** build and run application containers.
+- **Docker Compose:** configure and run multi-container development/deployment environments.
+- **AWS EC2:** deploy and run application workloads on virtual servers.
+- **AWS RDS:** connect applications to managed relational databases.
+- **AWS S3:** work with object storage for application assets and files.
+- **AWS IAM:** understand identity and permission boundaries for AWS resources.
+- **Linux:** application process and environment troubleshooting.
+- **Nginx:** reverse-proxy configuration concepts and request routing.
+- **Environment configuration:** separate application settings from source code and keep secrets out of repositories.
+- **Database operations:** manage connection configuration and schema migration workflows.
+
+### CI/CD and build automation
+
+- Git-based branching, merging, and release workflows.
+- Maven and Maven Wrapper builds.
+- Automated compilation and test execution.
+- Static analysis and Checkstyle quality checks.
+- CI pipeline configuration and build troubleshooting.
+- Docker image build workflows.
+- Deployment configuration and environment-specific settings.
+- Release verification and rollback awareness.
+
+### Typical delivery pipeline
 
 ```text
-Understand the Problem
-          ↓
-     Model the Domain
-          ↓
-  Design the Architecture
-          ↓
-     Secure the APIs
-          ↓
-      Model the Data
-          ↓
-   Implement the Services
-          ↓
-      Test the System
-          ↓
-    Optimize Hot Paths
-          ↓
-    Automate Delivery
-          ↓
-      Deploy Safely
-          ↓
-     Observe & Improve
+Code Change / Pull Request
+          |
+          v
+      Maven Build
+          |
+          v
+    Automated Tests
+          |
+          v
+ Checkstyle / Static Analysis
+          |
+          v
+    Package Application
+          |
+          v
+     Build Docker Image
+          |
+          v
+ Configure Runtime / Secrets
+          |
+          v
+ Deploy to Target Environment
+          |
+          v
+ Verify Logs, Health, and APIs
 ```
 
-I don't believe that good software means the most complicated architecture.
+### Production-readiness considerations
 
-I believe good software is:
-
-**Simple enough to understand.**
-
-**Strong enough to handle failure.**
-
-**Secure enough to protect its users.**
-
-**Flexible enough to evolve.**
-
-**Efficient enough to scale.**
+- Keep credentials and secrets out of Git.
+- Make configuration explicit per environment.
+- Verify database connectivity and migration status during deployment.
+- Check container logs and application startup failures.
+- Use health checks and deployment verification where configured.
+- Understand the impact of restarts, stateful dependencies, and backward-incompatible changes.
+- Plan safe rollback and recovery paths.
 
 ---
 
-# 🌱 Currently Deepening
+## Spring AI and AI-Enabled Backend Engineering
 
-- Advanced Kubernetes
-- Cloud-native architecture
-- Observability and distributed tracing
-- High-throughput systems
-- Advanced Kafka architectures
-- Enterprise integration platforms
-- AI-native backend engineering
-- Advanced system design
-- Performance engineering
+I'm expanding my Java backend toolkit with **Spring AI** and patterns for integrating AI capabilities into applications with appropriate validation, security, and operational controls.
+
+### Areas of focus
+
+- Spring AI abstractions and model integrations
+- Prompt and context construction
+- Structured response handling
+- Retrieval-Augmented Generation (RAG) concepts
+- Embedding and retrieval concepts
+- AI-backed service patterns
+- Tool-calling and agentic workflow concepts
+- Input/output validation and guardrails
+- Timeout, failure, latency, and usage-cost considerations
+
+### AI service pattern
+
+```text
+API Request
+    |
+    v
+Validate Input and Permissions
+    |
+    v
+Build Relevant Context
+    |
+    v
+Apply Deterministic Business Rules
+    |
+    v
+Call AI Service When Appropriate
+    |
+    v
+Validate and Structure Output
+    |
+    v
+Return Controlled API Response
+```
+
+AI output should be treated as untrusted until validated. Critical business rules should remain deterministic, testable, and auditable.
+
+---
+
+## Architecture Principles
+
+```text
+                 API / Presentation Layer
+                           |
+                           v
+                   Application Services
+                           |
+                           v
+                    Domain / Business Rules
+                           |
+                           v
+                 Persistence / Infrastructure
+                           |
+                           v
+                    Database / Messaging
+```
+
+- **SOLID and separation of concerns:** keep responsibilities clear.
+- **Dependency inversion:** isolate core logic from infrastructure where useful.
+- **Secure by design:** enforce authorization and data isolation at backend boundaries.
+- **Data integrity:** use appropriate models, constraints, validation, and transactions.
+- **Design for failure:** consider timeouts, retries, idempotency, and recovery.
+- **Observability:** make important behavior and failures diagnosable.
+- **Pragmatism:** use the simplest design that satisfies the requirements.
+
+---
+
+## Current Learning Focus
+
+- Advanced Data Structures and Algorithms in Java
+- System design and performance engineering
+- Kubernetes and cloud-native patterns
+- Distributed tracing and observability
+- Advanced Kafka patterns
+- Spring AI, LLMs, and RAG
+- Agentic AI concepts
+- Resilient distributed systems
 - Advanced application security
 
 ---
 
-# 🎓 Education
+## Certifications
 
-### Master of Computer Applications — MCA
-
-**Madanapalle Institute of Technology & Science**
-
-Dec 2021 – Aug 2023  
-**CGPA: 8.23**
-
-### Bachelor of Computer Applications — BCA
-
-**Shri Gnanambica Degree College**
-
-Jun 2018 – Aug 2021  
-**CGPA: 7.71**
+- **Kafka & Zookeeper – In-Depth Understanding** — Scaler
+- **JAVA Programming – Beginner to Master** — Udemy
+- **Spring Boot for Beginners** — Amigoscode
 
 ---
 
-# 📜 Certifications
+## Connect
 
-- **Kafka & Zookeeper – In-Depth Understanding** — Scaler, Jan 2025
-- **JAVA Programming – Beginner to Master** — Udemy, Nov 2024
-- **Spring Boot for Beginners** — Amigoscode, Sep 2024
+I'm interested in Java backend engineering, Spring, secure APIs, deployment and DevOps, distributed systems, cloud infrastructure, and AI-enabled applications.
 
----
-
-# 📈 Engineering Metrics
-
-Some of the reported outcomes from my professional experience include:
-
-| Area | Reported Outcome |
-|---|---:|
-| Suppliers / Manufacturers Supported | 150+ |
-| Security Vulnerability Reduction | 40% |
-| Automated Test Coverage | 95% |
-| Reported Uptime | 99.5% |
-| Deployment Speed Improvement | 30% |
-| Backend Validation Data Accuracy Improvement | 60% |
-| Payment Processing Throughput | 5,000+ transactions/min |
-| Payment Throughput Improvement | 50% |
-| Food Delivery Restaurants Supported | 500+ |
-| Food Delivery Daily Orders | 1,200+ |
-| Food Delivery Data-Access Latency Improvement | 45% |
-| Food Delivery Automated Test Coverage | 98% |
-
----
-
-# 🤝 Let's Connect
-
-I'm interested in connecting with developers, architects, engineering teams and builders working on:
-
-**Java · Spring · Backend Engineering · SaaS · Distributed Systems · APIs · Enterprise Integrations · AI · Cloud-Native Systems · Manufacturing Technology · Digital Product Passport · Sustainability · Traceability**
-
-### Build for scale. Secure by design. Optimize deliberately.
-
-### Automate consistently. Observe intelligently. Ship reliably.
-
----
+- **LinkedIn:** [ameer-shaikk](https://www.linkedin.com/in/ameer-shaikk/)
+- **GitHub:** [SHAIKAMEERr](https://github.com/SHAIKAMEERr)
+- **LeetCode:** [SHAIKAMEER](https://leetcode.com/SHAIKAMEER)
+- **Email:** [shaikameerjann@gmail.com](mailto:shaikameerjann@gmail.com)
 
 <div align="center">
 
-**Java Backend Engineer • Spring Boot • SaaS • Microservices • Cloud • Distributed Systems**
+**Build securely · Deploy reliably · Test continuously · Improve deliberately**
 
 </div>
